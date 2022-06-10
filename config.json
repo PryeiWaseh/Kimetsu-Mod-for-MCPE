@@ -6,11 +6,11 @@
       "status": true,
       "link": "https://google.com/",
       
-      "addon": true,
-      "maps": true,
-      "texture": true,
+      "addon": false,
+      "maps": false,
+      "texture": false,
       "skin": true,
-      "more": true,
+      "more": false,
       
       "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
       "admob_banner": "ca-app-pub-3940256099942544/6300978111",
